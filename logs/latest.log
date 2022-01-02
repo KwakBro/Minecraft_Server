@@ -1,69 +1,67 @@
-[22:52:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:52:42] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[22:52:43] [Worker-Main-16/INFO]: Loaded 7 recipes
-[22:52:47] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[22:52:47] [Server thread/INFO]: Loading properties
-[22:52:47] [Server thread/INFO]: Default game type: SURVIVAL
-[22:52:47] [Server thread/INFO]: Generating keypair
-[22:52:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:52:47] [Server thread/INFO]: Using default channel type
-[22:52:48] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[22:52:48] [Server thread/INFO]: Preparing level "world"
-[22:52:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:52:50] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[22:52:50] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[22:52:50] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[22:52:51] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[22:52:51] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[22:52:52] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[22:52:52] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[22:52:53] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[22:52:53] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[22:52:54] [Worker-Main-21/INFO]: Preparing spawn area: 1%
-[22:52:54] [Worker-Main-21/INFO]: Preparing spawn area: 3%
-[22:52:55] [Worker-Main-17/INFO]: Preparing spawn area: 13%
-[22:52:55] [Worker-Main-21/INFO]: Preparing spawn area: 44%
-[22:52:56] [Worker-Main-19/INFO]: Preparing spawn area: 67%
-[22:52:56] [Worker-Main-20/INFO]: Preparing spawn area: 88%
-[22:52:56] [Server thread/INFO]: Time elapsed: 7454 ms
-[22:52:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:52:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[22:52:57] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[22:52:58] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[22:52:58] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[22:52:59] [Worker-Main-22/INFO]: Preparing spawn area: 1%
-[22:52:59] [Worker-Main-16/INFO]: Preparing spawn area: 6%
-[22:53:00] [Worker-Main-20/INFO]: Preparing spawn area: 12%
-[22:53:00] [Worker-Main-14/INFO]: Preparing spawn area: 33%
-[22:53:01] [Worker-Main-13/INFO]: Preparing spawn area: 46%
-[22:53:01] [Worker-Main-22/INFO]: Preparing spawn area: 69%
-[22:53:02] [Worker-Main-18/INFO]: Preparing spawn area: 96%
-[22:53:02] [Worker-Main-14/INFO]: Preparing spawn area: 96%
-[22:53:02] [Server thread/INFO]: Time elapsed: 5705 ms
-[22:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:53:03] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[22:53:03] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[22:53:03] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[22:53:04] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[22:53:04] [Worker-Main-17/INFO]: Preparing spawn area: 6%
-[22:53:05] [Worker-Main-18/INFO]: Preparing spawn area: 29%
-[22:53:05] [Worker-Main-14/INFO]: Preparing spawn area: 52%
-[22:53:06] [Worker-Main-13/INFO]: Preparing spawn area: 74%
-[22:53:06] [Worker-Main-21/INFO]: Preparing spawn area: 87%
-[22:53:07] [Server thread/INFO]: Time elapsed: 4432 ms
-[22:53:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:53:07] [Server thread/INFO]: Done (19.130s)! For help, type "help"
-[22:53:51] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
-[22:53:51] [Server thread/INFO]: ToRam_[/127.0.0.1:54328] logged in with entity id 142 at ([world]868.5, 64.5625, 133.5)
-[22:54:52] [Server thread/INFO]: ToRam_ lost connection: Disconnected
-[22:54:52] [Server thread/INFO]: ToRam_ left the game
-[22:55:01] [Server thread/INFO]: Stopping server
-[22:55:01] [Server thread/INFO]: Saving players
-[22:55:02] [Server thread/INFO]: Saving worlds
-[22:55:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:55:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:55:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:55:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:55:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:55:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:55:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:57:02] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[22:57:03] [Worker-Main-16/INFO]: Loaded 7 recipes
+[22:57:06] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[22:57:06] [Server thread/INFO]: Loading properties
+[22:57:06] [Server thread/INFO]: Default game type: SURVIVAL
+[22:57:06] [Server thread/INFO]: Generating keypair
+[22:57:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:57:06] [Server thread/INFO]: Using default channel type
+[22:57:07] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[22:57:07] [Server thread/INFO]: Preparing level "world"
+[22:57:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:57:09] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[22:57:09] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[22:57:10] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[22:57:10] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[22:57:10] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[22:57:11] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:57:11] [Worker-Main-18/INFO]: Preparing spawn area: 1%
+[22:57:12] [Worker-Main-16/INFO]: Preparing spawn area: 8%
+[22:57:12] [Worker-Main-13/INFO]: Preparing spawn area: 8%
+[22:57:13] [Worker-Main-17/INFO]: Preparing spawn area: 14%
+[22:57:13] [Worker-Main-16/INFO]: Preparing spawn area: 39%
+[22:57:14] [Worker-Main-19/INFO]: Preparing spawn area: 61%
+[22:57:14] [Worker-Main-21/INFO]: Preparing spawn area: 84%
+[22:57:15] [Server thread/INFO]: Time elapsed: 6786 ms
+[22:57:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:57:16] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[22:57:16] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[22:57:16] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[22:57:17] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[22:57:17] [Worker-Main-21/INFO]: Preparing spawn area: 2%
+[22:57:18] [Worker-Main-16/INFO]: Preparing spawn area: 4%
+[22:57:18] [Worker-Main-16/INFO]: Preparing spawn area: 9%
+[22:57:19] [Worker-Main-22/INFO]: Preparing spawn area: 31%
+[22:57:19] [Worker-Main-19/INFO]: Preparing spawn area: 48%
+[22:57:20] [Worker-Main-17/INFO]: Preparing spawn area: 67%
+[22:57:20] [Worker-Main-14/INFO]: Preparing spawn area: 82%
+[22:57:21] [Worker-Main-19/INFO]: Preparing spawn area: 99%
+[22:57:21] [Server thread/INFO]: Time elapsed: 5806 ms
+[22:57:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:57:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[22:57:22] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[22:57:22] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[22:57:22] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[22:57:23] [Worker-Main-19/INFO]: Preparing spawn area: 18%
+[22:57:23] [Worker-Main-18/INFO]: Preparing spawn area: 43%
+[22:57:24] [Worker-Main-14/INFO]: Preparing spawn area: 60%
+[22:57:24] [Worker-Main-14/INFO]: Preparing spawn area: 73%
+[22:57:25] [Worker-Main-13/INFO]: Preparing spawn area: 86%
+[22:57:25] [Server thread/INFO]: Time elapsed: 4237 ms
+[22:57:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:57:25] [Server thread/INFO]: Done (18.241s)! For help, type "help"
+[22:58:20] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[22:58:20] [Server thread/INFO]: ToRam_[/127.0.0.1:63333] logged in with entity id 142 at ([world]855.6960226347866, 64.0, 128.3569346411178)
+[22:58:48] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[22:58:48] [Server thread/INFO]: ToRam_ left the game
+[22:58:56] [Server thread/INFO]: Stopping server
+[22:58:56] [Server thread/INFO]: Saving players
+[22:58:56] [Server thread/INFO]: Saving worlds
+[22:58:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:58:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:58:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:58:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:58:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:58:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:58:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
