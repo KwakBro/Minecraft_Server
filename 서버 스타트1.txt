@@ -1,0 +1,6 @@
+git init
+git remote add origin git@github.com:KwakBro/Minecraft_Server.git
+git pull origin main
+@echo off
+java -Xms2G -Xmx4G -jar spigot.jar
+pause
