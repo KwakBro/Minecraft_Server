@@ -1,18 +1,96 @@
-[01:00:08] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['ToRam_'/140, l='ServerLevel[world_the_end]', x=0.98, y=63.59, z=-0.42, removed=CHANGED_DIMENSION](ToRam_ at 0.9848177877877842,63.593651697912215,-0.4205325235441719)'
-[01:18:22] [User Authenticator #2/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
-[01:18:23] [Server thread/INFO]: NotTangerlne[/49.165.238.157:64005] logged in with entity id 35346 at ([world]856.4559523609339, 64.0, 127.79257034112618)
-[01:32:51] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
-[01:32:51] [Server thread/INFO]: NotTangerlne left the game
-[02:10:37] [Server thread/WARN]: ToRam_ moved wrongly!
-[02:27:36] [Server thread/INFO]: ToRam_ lost connection: Disconnected
-[02:27:36] [Server thread/INFO]: ToRam_ left the game
-[02:27:46] [Server thread/INFO]: Stopping server
-[02:27:46] [Server thread/INFO]: Saving players
-[02:27:46] [Server thread/INFO]: Saving worlds
-[02:27:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:27:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:27:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:25:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:25:29] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[13:25:30] [Worker-Main-16/INFO]: Loaded 7 recipes
+[13:25:38] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[13:25:38] [Server thread/INFO]: Loading properties
+[13:25:38] [Server thread/INFO]: Default game type: SURVIVAL
+[13:25:38] [Server thread/INFO]: Generating keypair
+[13:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:25:38] [Server thread/INFO]: Using default channel type
+[13:25:39] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[13:25:39] [Server thread/INFO]: Preparing level "world"
+[13:25:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:25:42] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[13:25:42] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:25:42] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:25:42] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[13:25:42] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[13:25:43] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:25:43] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:25:44] [Worker-Main-18/INFO]: Preparing spawn area: 1%
+[13:25:44] [Worker-Main-17/INFO]: Preparing spawn area: 4%
+[13:25:45] [Worker-Main-21/INFO]: Preparing spawn area: 14%
+[13:25:45] [Worker-Main-16/INFO]: Preparing spawn area: 30%
+[13:25:46] [Worker-Main-21/INFO]: Preparing spawn area: 46%
+[13:25:46] [Worker-Main-21/INFO]: Preparing spawn area: 63%
+[13:25:47] [Worker-Main-18/INFO]: Preparing spawn area: 91%
+[13:25:47] [Server thread/INFO]: Time elapsed: 7189 ms
+[13:25:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:25:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[13:25:49] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[13:25:49] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:25:49] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[13:25:50] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[13:25:50] [Worker-Main-19/INFO]: Preparing spawn area: 4%
+[13:25:51] [Worker-Main-15/INFO]: Preparing spawn area: 6%
+[13:25:51] [Worker-Main-18/INFO]: Preparing spawn area: 16%
+[13:25:52] [Worker-Main-21/INFO]: Preparing spawn area: 31%
+[13:25:52] [Worker-Main-13/INFO]: Preparing spawn area: 50%
+[13:25:53] [Worker-Main-13/INFO]: Preparing spawn area: 72%
+[13:25:53] [Worker-Main-12/INFO]: Preparing spawn area: 79%
+[13:25:54] [Worker-Main-15/INFO]: Preparing spawn area: 99%
+[13:25:54] [Server thread/INFO]: Time elapsed: 6227 ms
+[13:25:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:25:55] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:25:55] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[13:25:55] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:25:55] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[13:25:56] [Worker-Main-12/INFO]: Preparing spawn area: 11%
+[13:25:56] [Worker-Main-12/INFO]: Preparing spawn area: 32%
+[13:25:57] [Worker-Main-21/INFO]: Preparing spawn area: 62%
+[13:25:57] [Worker-Main-19/INFO]: Preparing spawn area: 79%
+[13:25:58] [Worker-Main-22/INFO]: Preparing spawn area: 94%
+[13:25:58] [Server thread/INFO]: Time elapsed: 4229 ms
+[13:25:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:25:58] [Server thread/INFO]: Done (19.168s)! For help, type "help"
+[13:26:25] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[13:26:26] [Server thread/INFO]: ToRam_[/127.0.0.1:54147] logged in with entity id 147 at ([world]864.7305905082543, 64.0, 135.48473506987824)
+[14:08:22] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[14:08:22] [Server thread/INFO]: ToRam_ left the game
+[14:20:06] [User Authenticator #2/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[14:20:07] [Server thread/INFO]: ToRam_[/127.0.0.1:61100] logged in with entity id 13261 at ([world_nether]26.070915127224932, 15.0, -219.71249243776998)
+[14:37:32] [User Authenticator #3/INFO]: UUID of player SkateMannn is d6a73045-7c02-409f-a535-017677fce7c7
+[14:37:32] [Server thread/INFO]: SkateMannn[/182.217.108.150:58677] logged in with entity id 23974 at ([world]778.1863084767956, 71.0, -98.44904796809114)
+[16:04:37] [User Authenticator #4/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
+[16:04:37] [Server thread/INFO]: NotTangerlne[/49.165.238.157:52815] logged in with entity id 71097 at ([world]853.3058112744277, 64.0, 130.8667411144987)
+[16:09:22] [Server thread/INFO]: ToRam_ has completed the challenge [Cover Me in Debris]
+[16:10:20] [Server thread/INFO]: NotTangerlne has made the advancement [The Parrots and the Bats]
+[17:12:20] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
+[17:12:20] [Server thread/INFO]: NotTangerlne left the game
+[17:14:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b327387[id=<null>,name=NotTangerlne,properties={},legacy=false] (/49.165.238.157:61113) lost connection: Disconnected
+[17:14:36] [User Authenticator #5/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
+[17:14:36] [Server thread/INFO]: NotTangerlne[/49.165.238.157:61114] logged in with entity id 101165 at ([world]852.4749428070735, 64.0, 139.2558673217902)
+[17:21:56] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[17:21:56] [Server thread/INFO]: ToRam_ left the game
+[17:22:45] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
+[17:22:45] [Server thread/INFO]: NotTangerlne left the game
+[17:23:05] [User Authenticator #6/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[17:23:05] [Server thread/INFO]: ToRam_[/127.0.0.1:58304] logged in with entity id 103512 at ([world]804.9054309737186, 72.0, 84.45588194529795)
+[17:57:19] [Server thread/INFO]: SkateMannn was slain by Iron Golem
+[18:36:48] [Server thread/INFO]: Villager EntityVillager['Villager'/116630, l='ServerLevel[world]', x=859.30, y=75.00, z=-90.50] died, message: 'Villager was slain by Zombie'
+[18:53:51] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['ToRam_'/103512, l='ServerLevel[world_the_end]', x=-0.17, y=63.75, z=-0.30, removed=CHANGED_DIMENSION](ToRam_ at -0.165724815146171,63.745601944530975,-0.30000001192092896)'
+[19:20:57] [Server thread/INFO]: Villager EntityVillager['Villager'/157467, l='ServerLevel[world]', x=772.81, y=73.00, z=-97.55] died, message: 'Villager was slain by Zombie'
+[19:29:28] [Server thread/INFO]: SkateMannn lost connection: Disconnected
+[19:29:28] [Server thread/INFO]: SkateMannn left the game
+[19:33:57] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[19:33:57] [Server thread/INFO]: ToRam_ left the game
+[19:34:03] [Server thread/INFO]: Stopping server
+[19:34:03] [Server thread/INFO]: Saving players
+[19:34:03] [Server thread/INFO]: Saving worlds
+[19:34:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:34:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:34:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:34:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
