@@ -1,96 +1,67 @@
-[15:24:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:24:28] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[15:24:29] [Worker-Main-14/INFO]: Loaded 7 recipes
-[15:24:35] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[15:24:35] [Server thread/INFO]: Loading properties
-[15:24:35] [Server thread/INFO]: Default game type: SURVIVAL
-[15:24:35] [Server thread/INFO]: Generating keypair
-[15:24:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:24:35] [Server thread/INFO]: Using default channel type
-[15:24:35] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[15:24:36] [Server thread/INFO]: Preparing level "world"
-[15:24:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:24:38] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[15:24:38] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[15:24:38] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[15:24:38] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[15:24:39] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[15:24:39] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[15:24:40] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[15:24:40] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:24:41] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[15:24:41] [Worker-Main-13/INFO]: Preparing spawn area: 3%
-[15:24:42] [Worker-Main-21/INFO]: Preparing spawn area: 9%
-[15:24:42] [Worker-Main-16/INFO]: Preparing spawn area: 30%
-[15:24:43] [Worker-Main-16/INFO]: Preparing spawn area: 36%
-[15:24:43] [Worker-Main-22/INFO]: Preparing spawn area: 55%
-[15:24:44] [Worker-Main-15/INFO]: Preparing spawn area: 83%
-[15:24:45] [Server thread/INFO]: Time elapsed: 7767 ms
-[15:24:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[15:24:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:46] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[15:24:46] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[15:24:47] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[15:24:47] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[15:24:48] [Worker-Main-19/INFO]: Preparing spawn area: 4%
-[15:24:48] [Worker-Main-22/INFO]: Preparing spawn area: 14%
-[15:24:49] [Worker-Main-22/INFO]: Preparing spawn area: 20%
-[15:24:49] [Worker-Main-12/INFO]: Preparing spawn area: 40%
-[15:24:50] [Worker-Main-20/INFO]: Preparing spawn area: 62%
-[15:24:50] [Worker-Main-20/INFO]: Preparing spawn area: 83%
-[15:24:51] [Worker-Main-21/INFO]: Preparing spawn area: 93%
-[15:24:51] [Server thread/INFO]: Time elapsed: 6398 ms
-[15:24:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[15:24:52] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[15:24:52] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[15:24:52] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[15:24:53] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[15:24:53] [Worker-Main-20/INFO]: Preparing spawn area: 6%
-[15:24:54] [Worker-Main-20/INFO]: Preparing spawn area: 15%
-[15:24:54] [Worker-Main-13/INFO]: Preparing spawn area: 36%
-[15:24:55] [Worker-Main-13/INFO]: Preparing spawn area: 55%
-[15:24:55] [Worker-Main-22/INFO]: Preparing spawn area: 69%
-[15:24:56] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[15:24:56] [Server thread/INFO]: Time elapsed: 5118 ms
-[15:24:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[15:24:56] [Server thread/INFO]: Done (20.707s)! For help, type "help"
-[15:25:39] [User Authenticator #1/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
-[15:25:40] [Server thread/INFO]: NotTangerlne[/127.0.0.1:61537] logged in with entity id 143 at ([world]759.7056521926459, 64.5, -131.71846192156826)
-[15:26:14] [Server thread/INFO]: Made NotTangerlne a server operator
-[15:26:25] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[15:26:25] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[15:38:31] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt_minecart 64
-[15:38:31] [Server thread/INFO]: [NotTangerlne: Gave 64 [Minecart with TNT] to NotTangerlne]
-[15:39:26] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6444
-[15:39:34] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:39:34] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:39:51] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:39:51] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:40:08] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:40:08] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:40:10] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:40:10] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:40:11] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:40:11] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:40:11] [Netty Server IO #3/INFO]: <NotTangerlne> v[m
-[15:40:26] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:40:26] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[15:40:40] [Server thread/INFO]: NotTangerlne issued server command: /give NotTangerlne minecraft:tnt 6400
-[15:40:40] [Server thread/INFO]: [NotTangerlne: Gave 6400 [TNT] to NotTangerlne]
-[16:08:35] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[16:08:35] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[16:08:49] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
-[16:08:49] [Server thread/INFO]: NotTangerlne left the game
-[16:08:55] [Server thread/INFO]: That player does not exist
-[16:09:08] [Server thread/INFO]: Made NotTangerlne no longer a server operator
-[16:09:17] [Server thread/INFO]: Stopping server
-[16:09:17] [Server thread/INFO]: Saving players
-[16:09:17] [Server thread/INFO]: Saving worlds
-[16:09:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:09:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:09:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:46:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:46:12] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[19:46:13] [Worker-Main-12/INFO]: Loaded 7 recipes
+[19:46:16] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[19:46:16] [Server thread/INFO]: Loading properties
+[19:46:16] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:16] [Server thread/INFO]: Generating keypair
+[19:46:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:46:16] [Server thread/INFO]: Using default channel type
+[19:46:17] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[19:46:17] [Server thread/INFO]: Preparing level "world"
+[19:46:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:46:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:46:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:46:20] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:46:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-17/INFO]: Preparing spawn area: 5%
+[19:46:22] [Worker-Main-17/INFO]: Preparing spawn area: 5%
+[19:46:22] [Worker-Main-22/INFO]: Preparing spawn area: 16%
+[19:46:23] [Worker-Main-22/INFO]: Preparing spawn area: 34%
+[19:46:23] [Worker-Main-15/INFO]: Preparing spawn area: 61%
+[19:46:24] [Worker-Main-13/INFO]: Preparing spawn area: 84%
+[19:46:25] [Server thread/INFO]: Time elapsed: 6999 ms
+[19:46:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:46:26] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[19:46:26] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[19:46:26] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:46:27] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:46:27] [Worker-Main-17/INFO]: Preparing spawn area: 1%
+[19:46:27] [Worker-Main-22/INFO]: Preparing spawn area: 10%
+[19:46:28] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[19:46:29] [Worker-Main-12/INFO]: Preparing spawn area: 35%
+[19:46:29] [Worker-Main-19/INFO]: Preparing spawn area: 57%
+[19:46:30] [Worker-Main-13/INFO]: Preparing spawn area: 72%
+[19:46:30] [Worker-Main-15/INFO]: Preparing spawn area: 91%
+[19:46:31] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[19:46:31] [Server thread/INFO]: Time elapsed: 5861 ms
+[19:46:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:46:32] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[19:46:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:46:32] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[19:46:32] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[19:46:33] [Worker-Main-16/INFO]: Preparing spawn area: 6%
+[19:46:33] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[19:46:34] [Worker-Main-14/INFO]: Preparing spawn area: 49%
+[19:46:34] [Worker-Main-20/INFO]: Preparing spawn area: 69%
+[19:46:35] [Worker-Main-16/INFO]: Preparing spawn area: 87%
+[19:46:35] [Server thread/INFO]: Time elapsed: 4310 ms
+[19:46:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:46:35] [Server thread/INFO]: Done (18.441s)! For help, type "help"
+[19:47:13] [User Authenticator #1/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
+[19:47:13] [Server thread/INFO]: NotTangerlne[/127.0.0.1:63263] logged in with entity id 143 at ([world]876.1564789580808, 64.0, 114.3889738550621)
+[19:50:42] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
+[19:50:42] [Server thread/INFO]: NotTangerlne left the game
+[19:50:44] [Server thread/INFO]: Stopping server
+[19:50:44] [Server thread/INFO]: Saving players
+[19:50:45] [Server thread/INFO]: Saving worlds
+[19:50:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:50:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:50:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:50:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:50:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:50:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:50:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
