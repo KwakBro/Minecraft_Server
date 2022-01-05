@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-01-05 22:27:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-12-15 23:28:44 +0900"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-01-05 22:25:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-12-15 23:27:20 +0900"
@@ -774,6 +786,7 @@
       "minecraft:zombified_piglin": "2021-12-27 23:56:30 +0900",
       "minecraft:witch": "2021-12-16 02:53:23 +0900",
       "minecraft:enderman": "2021-12-22 00:05:12 +0900",
+      "minecraft:silverfish": "2022-01-05 22:25:32 +0900",
       "minecraft:endermite": "2021-12-23 21:28:27 +0900",
       "minecraft:zombie": "2021-12-16 00:52:36 +0900",
       "minecraft:drowned": "2021-12-22 22:55:21 +0900",
@@ -790,6 +803,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2021-12-16 19:18:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-01-05 21:24:35 +0900"
     },
     "done": true
   },
