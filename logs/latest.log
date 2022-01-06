@@ -1,99 +1,103 @@
-[20:29:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:29:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[20:29:14] [Worker-Main-14/INFO]: Loaded 7 recipes
-[20:29:20] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[20:29:20] [Server thread/INFO]: Loading properties
-[20:29:20] [Server thread/INFO]: Default game type: SURVIVAL
-[20:29:20] [Server thread/INFO]: Generating keypair
-[20:29:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:29:21] [Server thread/INFO]: Using default channel type
-[20:29:21] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[20:29:22] [Server thread/INFO]: Preparing level "world"
-[20:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:29:24] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[20:29:24] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[20:29:24] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[20:29:24] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[20:29:25] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[20:29:25] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[20:29:26] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[20:29:26] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[20:29:27] [Worker-Main-19/INFO]: Preparing spawn area: 4%
-[20:29:28] [Worker-Main-19/INFO]: Preparing spawn area: 29%
-[20:29:28] [Worker-Main-20/INFO]: Preparing spawn area: 50%
-[20:29:29] [Worker-Main-17/INFO]: Preparing spawn area: 65%
-[20:29:29] [Worker-Main-19/INFO]: Preparing spawn area: 90%
-[20:29:30] [Server thread/INFO]: Time elapsed: 7282 ms
-[20:29:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:29:31] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[20:29:31] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[20:29:31] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[20:29:32] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[20:29:32] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[20:29:33] [Worker-Main-12/INFO]: Preparing spawn area: 2%
-[20:29:33] [Worker-Main-21/INFO]: Preparing spawn area: 10%
-[20:29:34] [Worker-Main-15/INFO]: Preparing spawn area: 10%
-[20:29:34] [Worker-Main-17/INFO]: Preparing spawn area: 17%
-[20:29:35] [Worker-Main-17/INFO]: Preparing spawn area: 42%
-[20:29:35] [Worker-Main-16/INFO]: Preparing spawn area: 68%
-[20:29:36] [Worker-Main-15/INFO]: Preparing spawn area: 79%
-[20:29:36] [Worker-Main-12/INFO]: Preparing spawn area: 99%
-[20:29:37] [Server thread/INFO]: Time elapsed: 6433 ms
-[20:29:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:29:37] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[20:29:37] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[20:29:38] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[20:29:38] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[20:29:39] [Worker-Main-13/INFO]: Preparing spawn area: 12%
-[20:29:39] [Worker-Main-22/INFO]: Preparing spawn area: 32%
-[20:29:40] [Worker-Main-15/INFO]: Preparing spawn area: 54%
-[20:29:40] [Worker-Main-12/INFO]: Preparing spawn area: 72%
-[20:29:41] [Worker-Main-22/INFO]: Preparing spawn area: 87%
-[20:29:41] [Server thread/INFO]: Time elapsed: 4532 ms
-[20:29:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:29:41] [Server thread/INFO]: Done (19.515s)! For help, type "help"
-[20:30:39] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
-[20:30:40] [Server thread/INFO]: ToRam_[/127.0.0.1:61465] logged in with entity id 141 at ([world]817.5, 69.0, -118.5)
-[20:32:15] [Server thread/INFO]: Made ToRam_ a server operator
-[20:32:23] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
-[20:32:23] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
-[20:51:19] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
-[20:51:19] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
-[20:51:31] [Server thread/INFO]: Made ToRam_ no longer a server operator
-[20:52:00] [User Authenticator #2/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
-[20:52:00] [Server thread/INFO]: NotTangerlne[/49.165.238.157:58295] logged in with entity id 3407 at ([world]918.6997124169013, 68.0, 76.52288127714051)
-[20:52:22] [User Authenticator #3/INFO]: UUID of player SkateMannn is d6a73045-7c02-409f-a535-017677fce7c7
-[20:52:22] [Server thread/INFO]: SkateMannn[/182.217.108.150:59522] logged in with entity id 3847 at ([world]837.2129572009238, 77.0, -102.7460241242319)
-[20:53:09] [Server thread/INFO]: SkateMannn experienced kinetic energy
-[21:24:35] [Server thread/INFO]: SkateMannn has made the advancement [Enchanter]
-[22:04:12] [Server thread/INFO]: Teleported NotTangerlne to ToRam_
-[22:04:12] [Server thread/WARN]: NotTangerlne moved too quickly! -23.29983298421348,15.0,71.37257994768493
-[22:06:28] [Server thread/INFO]: Teleported NotTangerlne to ToRam_
-[22:06:28] [Server thread/WARN]: NotTangerlne moved too quickly! -95.54682200811158,2.0666454991795433,-175.80000001192093
-[22:15:03] [Server thread/INFO]: NotTangerlne experienced kinetic energy
-[22:22:57] [User Authenticator #4/INFO]: UUID of player A_chies is 328aaeaf-723a-4468-a6a8-e5c5972b56ac
-[22:22:57] [Server thread/INFO]: A_chies[/221.166.218.44:8968] logged in with entity id 45659 at ([world]193.5, 193.0, 111.5)
-[22:25:40] [Server thread/INFO]: A_chies fell from a high place
-[22:28:21] [Server thread/INFO]: A_chies discovered the floor was lava
-[22:30:26] [Server thread/INFO]: A_chies has made the advancement [Monster Hunter]
-[22:32:27] [Netty Server IO #2/INFO]: <ToRam_> ¼­¹ö ´Ù¿î 10ÃÊ Àü[m
-[22:32:37] [Netty Server IO #2/INFO]: <ToRam_> 5ÃÊ Àü[m
-[22:33:40] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
-[22:33:40] [Server thread/INFO]: NotTangerlne left the game
-[22:33:42] [Server thread/INFO]: SkateMannn lost connection: Disconnected
-[22:33:42] [Server thread/INFO]: SkateMannn left the game
-[22:33:44] [Server thread/INFO]: ToRam_ lost connection: Disconnected
-[22:33:44] [Server thread/INFO]: ToRam_ left the game
-[22:33:51] [Server thread/INFO]: Stopping server
-[22:33:51] [Server thread/INFO]: Saving players
-[22:33:51] [Server thread/INFO]: A_chies lost connection: Server closed
-[22:33:51] [Server thread/INFO]: A_chies left the game
-[22:33:51] [Server thread/INFO]: Saving worlds
-[22:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:33:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:35:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:35:57] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[20:35:58] [Worker-Main-14/INFO]: Loaded 7 recipes
+[20:36:05] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[20:36:05] [Server thread/INFO]: Loading properties
+[20:36:05] [Server thread/INFO]: Default game type: SURVIVAL
+[20:36:05] [Server thread/INFO]: Generating keypair
+[20:36:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:36:06] [Server thread/INFO]: Using default channel type
+[20:36:06] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[20:36:07] [Server thread/INFO]: Preparing level "world"
+[20:36:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:36:09] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:36:09] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[20:36:09] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:36:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:36:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:36:10] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:36:11] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:36:11] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[20:36:12] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[20:36:12] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[20:36:13] [Worker-Main-13/INFO]: Preparing spawn area: 6%
+[20:36:13] [Worker-Main-17/INFO]: Preparing spawn area: 13%
+[20:36:14] [Worker-Main-19/INFO]: Preparing spawn area: 20%
+[20:36:14] [Worker-Main-22/INFO]: Preparing spawn area: 37%
+[20:36:15] [Worker-Main-21/INFO]: Preparing spawn area: 79%
+[20:36:15] [Worker-Main-21/INFO]: Preparing spawn area: 95%
+[20:36:16] [Server thread/INFO]: Time elapsed: 7875 ms
+[20:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:36:17] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:36:17] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[20:36:17] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:36:17] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[20:36:18] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[20:36:18] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[20:36:19] [Worker-Main-16/INFO]: Preparing spawn area: 6%
+[20:36:19] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:36:20] [Worker-Main-15/INFO]: Preparing spawn area: 31%
+[20:36:20] [Worker-Main-18/INFO]: Preparing spawn area: 52%
+[20:36:21] [Worker-Main-12/INFO]: Preparing spawn area: 66%
+[20:36:21] [Worker-Main-20/INFO]: Preparing spawn area: 83%
+[20:36:22] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[20:36:22] [Server thread/INFO]: Time elapsed: 6285 ms
+[20:36:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:36:23] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:36:23] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:36:23] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[20:36:24] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:36:24] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:36:25] [Worker-Main-15/INFO]: Preparing spawn area: 13%
+[20:36:25] [Worker-Main-17/INFO]: Preparing spawn area: 42%
+[20:36:26] [Worker-Main-17/INFO]: Preparing spawn area: 72%
+[20:36:26] [Server thread/INFO]: Time elapsed: 3921 ms
+[20:36:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:36:26] [Server thread/INFO]: Done (19.472s)! For help, type "help"
+[20:36:33] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[20:36:34] [Server thread/INFO]: ToRam_[/127.0.0.1:52992] logged in with entity id 271 at ([world]858.6508581267691, 64.0, 136.636415298723)
+[20:37:08] [Server thread/INFO]: Made ToRam_ a server operator
+[20:37:29] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[20:37:29] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[20:50:28] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[20:50:28] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[20:51:15] [User Authenticator #2/INFO]: UUID of player SkateMannn is d6a73045-7c02-409f-a535-017677fce7c7
+[20:51:15] [Server thread/INFO]: SkateMannn[/182.217.108.150:56306] logged in with entity id 2359 at ([world]761.6999999880791, 64.5625, -138.39217129467136)
+[21:10:15] [Server thread/INFO]: SkateMannn has made the advancement [Ol' Betsy]
+[21:20:04] [Server thread/INFO]: SkateMannn has made the advancement [The City at the End of the Game]
+[21:27:34] [User Authenticator #3/INFO]: UUID of player A_chies is 328aaeaf-723a-4468-a6a8-e5c5972b56ac
+[21:27:34] [Server thread/INFO]: A_chies[/221.166.218.44:6929] logged in with entity id 18636 at ([world]125.0933622538083, 63.0, 120.47404473049006)
+[21:34:49] [Server thread/INFO]: ToRam_ has made the advancement [Remote Getaway]
+[21:34:51] [Server thread/INFO]: SkateMannn has made the advancement [Remote Getaway]
+[21:36:40] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['ToRam_'/271, l='ServerLevel[world_the_end]', x=1.31, y=63.67, z=-0.30, removed=CHANGED_DIMENSION](ToRam_ at 1.3120750170968647,63.670726040707805,-0.30000001192092896)'
+[21:37:01] [Server thread/INFO]: Teleported A_chies to ToRam_
+[21:37:01] [Server thread/WARN]: A_chies moved too quickly! 591.8405595131161,6.0,-436.91137692751005
+[21:45:42] [Server thread/INFO]: A_chies has made the advancement [Sweet Dreams]
+[21:58:25] [Server thread/INFO]: A_chies has made the advancement [Stone Age]
+[21:59:54] [Server thread/INFO]: A_chies has made the advancement [Getting an Upgrade]
+[22:17:14] [Server thread/INFO]: A_chies has made the advancement [Acquire Hardware]
+[22:22:44] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[22:22:44] [Server thread/INFO]: ToRam_ left the game
+[22:25:37] [Server thread/INFO]: A_chies lost connection: Disconnected
+[22:25:37] [Server thread/INFO]: A_chies left the game
+[22:33:17] [User Authenticator #4/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[22:33:17] [Server thread/INFO]: ToRam_[/127.0.0.1:56800] logged in with entity id 61559 at ([world]816.4189210444566, 69.0, -120.37251187046465)
+[22:33:45] [Netty Server IO #6/INFO]: <ToRam_> server down 20s[m
+[22:33:56] [Netty Server IO #6/INFO]: <ToRam_> 15[m
+[22:34:04] [Netty Server IO #6/INFO]: <ToRam_> 10[m
+[22:34:14] [Netty Server IO #6/INFO]: <ToRam_> 5[m
+[22:34:18] [Netty Server IO #6/INFO]: <ToRam_> 3[m
+[22:34:23] [Server thread/INFO]: SkateMannn lost connection: Disconnected
+[22:34:23] [Server thread/INFO]: SkateMannn left the game
+[22:34:29] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[22:34:29] [Server thread/INFO]: ToRam_ left the game
+[22:34:34] [Server thread/INFO]: Stopping server
+[22:34:34] [Server thread/INFO]: Saving players
+[22:34:34] [Server thread/INFO]: Saving worlds
+[22:34:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:34:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:34:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:34:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:34:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:34:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:34:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

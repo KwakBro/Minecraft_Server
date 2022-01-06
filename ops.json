@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f59fa8a7-5b5a-473a-881a-513bf1ff62fa",
+    "name": "ToRam_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
