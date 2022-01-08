@@ -1,18 +1,66 @@
-[01:18:18] [Server thread/INFO]: SkateMannn lost connection: Disconnected
-[01:18:18] [Server thread/INFO]: SkateMannn left the game
-[01:19:25] [User Authenticator #3/INFO]: UUID of player SkateMannn is d6a73045-7c02-409f-a535-017677fce7c7
-[01:19:26] [Server thread/INFO]: SkateMannn[/182.217.108.150:2324] logged in with entity id 110948 at ([world]590.5345674185289, -53.0, -112.55506040874798)
-[03:05:31] [Server thread/INFO]: SkateMannn lost connection: Disconnected
-[03:05:31] [Server thread/INFO]: SkateMannn left the game
-[03:05:34] [Server thread/INFO]: ToRam_ lost connection: Disconnected
-[03:05:34] [Server thread/INFO]: ToRam_ left the game
-[03:05:40] [Server thread/INFO]: Stopping server
-[03:05:40] [Server thread/INFO]: Saving players
-[03:05:40] [Server thread/INFO]: Saving worlds
-[03:05:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:05:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:05:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:05:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:05:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:05:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:05:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:04] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[00:00:04] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[00:14:13] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[00:14:13] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[02:29:34] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[02:29:34] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[02:46:31] [Server thread/INFO]: ToRam_ issued server command: /difficulty
+[03:52:52] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~-30 ~ ~-30
+[03:56:43] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~30 ~ ~30 minecraft:dirt
+[03:56:43] [Server thread/INFO]: [ToRam_: Successfully filled 961 blocks]
+[03:58:53] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~49 ~ ~49 minecraft:glass
+[03:58:53] [Server thread/INFO]: [ToRam_: Successfully filled 2500 blocks]
+[04:00:26] [Server thread/INFO]: ToRam_ issued server command: //undo
+[04:00:29] [Server thread/INFO]: ToRam_ issued server command: /help
+[04:00:46] [Server thread/INFO]: ToRam_ issued server command: /help
+[04:00:49] [Server thread/INFO]: ToRam_ issued server command: /help
+[04:00:56] [Netty Server IO #8/INFO]: <ToRam_> n[m
+[04:02:14] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~49 ~-1 ~49 air destroy
+[04:03:13] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~49 ~ ~-49 glass
+[04:03:13] [Server thread/INFO]: [ToRam_: Successfully filled 2500 blocks]
+[04:03:56] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~49 ~-1 ~-49 water destroy
+[04:03:56] [Server thread/INFO]: [ToRam_: Successfully filled 5000 blocks]
+[04:04:49] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~49 ~ ~-49 air destroy
+[04:04:49] [Server thread/INFO]: [ToRam_: Successfully filled 2499 blocks]
+[04:05:37] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~60 ~ ~-60 air destroy
+[04:05:37] [Server thread/INFO]: [ToRam_: Successfully filled 2700 blocks]
+[04:06:15] [Server thread/INFO]: ToRam_ issued server command: //wand
+[04:06:31] [Server thread/INFO]: ToRam_ issued server command: /toggleediwand
+[04:27:52] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~45 ~ ~45 minecraft:oak_fence_gate
+[04:27:52] [Server thread/INFO]: [ToRam_: Successfully filled 2116 blocks]
+[04:29:49] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~ ~47 minecraft:oak_fence_gate[open= true ]
+[04:29:49] [Server thread/INFO]: [ToRam_: Successfully filled 2304 blocks]
+[04:37:20] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~ ~47 minecraft:glass
+[04:37:20] [Server thread/INFO]: [ToRam_: Successfully filled 2303 blocks]
+[04:37:57] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~-1 ~47 air destroy
+[04:38:26] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~-1 ~47 glass destroy
+[04:38:26] [Server thread/INFO]: [ToRam_: Successfully filled 4608 blocks]
+[04:46:52] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~50 ~ ~50 air destroy
+[05:14:04] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[05:14:04] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[05:15:06] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[05:15:06] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[05:18:20] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~1 ~47 sto
+[05:18:37] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~1 ~47 minecraft:stone_slab
+[05:18:55] [Server thread/INFO]: ToRam_ issued server command: /fill ~ ~ ~ ~47 ~ ~47 minecraft:stone_slab
+[05:18:55] [Server thread/INFO]: [ToRam_: Successfully filled 2304 blocks]
+[06:00:51] [Server thread/INFO]: ToRam_ issued server command: /tp ToRam_ 800 0 180
+[06:00:52] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 800.500000, 0.000000, 180.500000]
+[06:03:07] [Server thread/INFO]: ToRam_ issued server command: /tp @a 1700 100 700
+[06:03:08] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 1700.500000, 100.000000, 700.500000]
+[07:01:25] [Server thread/INFO]: ToRam_ issued server command: /tp @a 800 60 180
+[07:01:26] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 800.500000, 60.000000, 180.500000]
+[07:09:54] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[07:09:54] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[07:14:27] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[07:14:27] [Server thread/INFO]: ToRam_ left the game
+[07:14:31] [Server thread/INFO]: Stopping server
+[07:14:31] [Server thread/INFO]: Saving players
+[07:14:31] [Server thread/INFO]: Saving worlds
+[07:14:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:14:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:14:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

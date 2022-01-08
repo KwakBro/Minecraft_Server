@@ -840,6 +840,7 @@
       "minecraft:zombified_piglin": "2021-12-27 23:56:30 +0900",
       "minecraft:witch": "2021-12-16 02:53:23 +0900",
       "minecraft:shulker": "2022-01-06 21:20:12 +0900",
+      "minecraft:piglin": "2022-01-08 22:17:13 +0900",
       "minecraft:enderman": "2021-12-22 00:05:12 +0900",
       "minecraft:silverfish": "2022-01-05 22:25:32 +0900",
       "minecraft:endermite": "2021-12-23 21:28:27 +0900",
@@ -1907,6 +1908,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2021-12-27 02:39:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2022-01-08 22:27:40 +0900"
     },
     "done": true
   },

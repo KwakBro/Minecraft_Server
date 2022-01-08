@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2022-01-08 20:05:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-16 01:55:31 +0900"
@@ -1727,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-01-08 20:18:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-01-07 23:14:53 +0900"
@@ -2145,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-01-08 20:18:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-12-16 03:22:54 +0900",
@@ -2159,6 +2177,7 @@
       "golden_carrot": "2021-12-21 23:45:15 +0900",
       "beetroot": "2021-12-23 21:28:30 +0900",
       "cooked_chicken": "2021-12-16 01:10:07 +0900",
+      "cod": "2022-01-08 18:39:16 +0900",
       "carrot": "2021-12-21 23:39:22 +0900"
     },
     "done": false
@@ -3542,7 +3561,10 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2022-01-07 23:28:15 +0900",
-      "textures/entity/cat/persian.png": "2022-01-07 23:16:55 +0900"
+      "textures/entity/cat/jellie.png": "2022-01-08 18:02:18 +0900",
+      "textures/entity/cat/persian.png": "2022-01-07 23:16:55 +0900",
+      "textures/entity/cat/red.png": "2022-01-08 18:07:08 +0900",
+      "textures/entity/cat/calico.png": "2022-01-08 17:56:23 +0900"
     },
     "done": false
   },
