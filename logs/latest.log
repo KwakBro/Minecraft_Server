@@ -1,66 +1,80 @@
-[08:17:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08:17:34] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[08:17:35] [Worker-Main-13/INFO]: Loaded 7 recipes
-[08:17:38] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[08:17:38] [Server thread/INFO]: Loading properties
-[08:17:38] [Server thread/INFO]: Default game type: SURVIVAL
-[08:17:38] [Server thread/INFO]: Generating keypair
-[08:17:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:17:38] [Server thread/INFO]: Using default channel type
-[08:17:39] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[08:17:39] [Server thread/INFO]: Preparing level "world"
-[08:17:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:17:42] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:42] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:42] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[08:17:42] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[08:17:42] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[08:17:43] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[08:17:43] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[08:17:44] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:44] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:45] [Worker-Main-16/INFO]: Preparing spawn area: 0%
-[08:17:45] [Worker-Main-16/INFO]: Preparing spawn area: 7%
-[08:17:46] [Worker-Main-16/INFO]: Preparing spawn area: 23%
-[08:17:47] [Worker-Main-17/INFO]: Preparing spawn area: 42%
-[08:17:47] [Worker-Main-12/INFO]: Preparing spawn area: 75%
-[08:17:48] [Server thread/INFO]: Time elapsed: 7396 ms
-[08:17:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:17:49] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[08:17:49] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:49] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:49] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[08:17:50] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[08:17:50] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[08:17:51] [Worker-Main-21/INFO]: Preparing spawn area: 8%
-[08:17:51] [Worker-Main-13/INFO]: Preparing spawn area: 24%
-[08:17:52] [Worker-Main-18/INFO]: Preparing spawn area: 52%
-[08:17:52] [Worker-Main-16/INFO]: Preparing spawn area: 76%
-[08:17:53] [Worker-Main-14/INFO]: Preparing spawn area: 87%
-[08:17:54] [Worker-Main-14/INFO]: Preparing spawn area: 92%
-[08:17:54] [Server thread/INFO]: Time elapsed: 5894 ms
-[08:17:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:17:55] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[08:17:55] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[08:17:55] [Worker-Main-20/INFO]: Preparing spawn area: 0%
-[08:17:55] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[08:17:56] [Worker-Main-18/INFO]: Preparing spawn area: 15%
-[08:17:56] [Worker-Main-18/INFO]: Preparing spawn area: 34%
-[08:17:57] [Worker-Main-20/INFO]: Preparing spawn area: 48%
-[08:17:57] [Worker-Main-12/INFO]: Preparing spawn area: 64%
-[08:17:58] [Worker-Main-20/INFO]: Preparing spawn area: 82%
-[08:17:58] [Worker-Main-19/INFO]: Preparing spawn area: 99%
-[08:17:58] [Server thread/INFO]: Time elapsed: 4533 ms
-[08:17:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:17:58] [Server thread/INFO]: Done (19.222s)! For help, type "help"
-[08:18:14] [Server thread/INFO]: Made NotTangerlne no longer a server operator
-[08:18:20] [Server thread/INFO]: Stopping server
-[08:18:20] [Server thread/INFO]: Saving players
-[08:18:20] [Server thread/INFO]: Saving worlds
-[08:18:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:18:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:18:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:18:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:18:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:18:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:18:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:53:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:53:11] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[15:53:12] [Worker-Main-21/INFO]: Loaded 7 recipes
+[15:53:16] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[15:53:16] [Server thread/INFO]: Loading properties
+[15:53:16] [Server thread/INFO]: Default game type: SURVIVAL
+[15:53:16] [Server thread/INFO]: Generating keypair
+[15:53:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:53:16] [Server thread/INFO]: Using default channel type
+[15:53:16] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[15:53:17] [Server thread/INFO]: Preparing level "world"
+[15:53:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:53:18] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[15:53:18] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[15:53:18] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[15:53:19] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[15:53:19] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[15:53:20] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[15:53:20] [Worker-Main-25/INFO]: Preparing spawn area: 4%
+[15:53:21] [Worker-Main-24/INFO]: Preparing spawn area: 9%
+[15:53:21] [Worker-Main-18/INFO]: Preparing spawn area: 16%
+[15:53:22] [Worker-Main-23/INFO]: Preparing spawn area: 40%
+[15:53:22] [Worker-Main-22/INFO]: Preparing spawn area: 68%
+[15:53:23] [Worker-Main-24/INFO]: Preparing spawn area: 95%
+[15:53:23] [Server thread/INFO]: Time elapsed: 5672 ms
+[15:53:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:53:24] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[15:53:24] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[15:53:24] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[15:53:25] [Worker-Main-20/INFO]: Preparing spawn area: 7%
+[15:53:25] [Worker-Main-22/INFO]: Preparing spawn area: 44%
+[15:53:26] [Worker-Main-30/INFO]: Preparing spawn area: 90%
+[15:53:26] [Server thread/INFO]: Time elapsed: 2749 ms
+[15:53:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:53:26] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[15:53:26] [Worker-Main-26/INFO]: Preparing spawn area: 0%
+[15:53:27] [Worker-Main-18/INFO]: Preparing spawn area: 16%
+[15:53:27] [Worker-Main-26/INFO]: Preparing spawn area: 63%
+[15:53:28] [Server thread/INFO]: Time elapsed: 1902 ms
+[15:53:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:53:28] [Server thread/INFO]: Done (11.314s)! For help, type "help"
+[15:57:18] [User Authenticator #1/INFO]: UUID of player SkateMannn is d6a73045-7c02-409f-a535-017677fce7c7
+[15:57:18] [Server thread/INFO]: SkateMannn[/127.0.0.1:57910] logged in with entity id 143 at ([world]766.6148308095126, 65.5, -117.97461601079048)
+[17:16:03] [Server thread/INFO]: Villager EntityVillager['Villager'/15912, l='ServerLevel[world]', x=808.07, y=64.00, z=-155.62] died, message: 'Villager suffocated in a wall'
+[17:16:39] [Server thread/INFO]: Villager EntityVillager['Villager'/15794, l='ServerLevel[world]', x=806.67, y=65.00, z=-152.30] died, message: 'Villager suffocated in a wall'
+[17:23:49] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:24:00] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:24:04] [Server thread/INFO]: Unknown item 'minecraft:388'
+[17:24:04] [Server thread/INFO]: ...kateMannn 388 300<--[HERE]
+[17:24:37] [Server thread/INFO]: Unknown item 'minecraft:'
+[17:24:37] [Server thread/INFO]: ...kateMannn Emerald 500<--[HERE]
+[17:24:54] [Server thread/INFO]: Gave 500 [Emerald] to SkateMannn
+[17:25:08] [Server thread/INFO]: Gave 500 [Emerald] to SkateMannn
+[17:25:09] [Server thread/INFO]: Gave 500 [Emerald] to SkateMannn
+[17:31:04] [Server thread/INFO]: Gave 64 [Chest] to SkateMannn
+[17:40:38] [Server thread/INFO]: Gave 500 [Emerald] to SkateMannn
+[17:41:17] [Server thread/INFO]: Gave 100 [Paper] to SkateMannn
+[17:41:27] [Server thread/INFO]: Gave 500 [Paper] to SkateMannn
+[17:45:06] [Server thread/INFO]: Unknown item 'minecraft:'
+[17:45:06] [Server thread/INFO]: ...kateMannn Compass 15<--[HERE]
+[17:45:14] [Server thread/INFO]: Gave 15 [Compass] to SkateMannn
+[18:11:49] [Server thread/INFO]: Gave 500 [Leather] to SkateMannn
+[18:14:33] [Server thread/INFO]: Gave 500 [Emerald] to SkateMannn
+[18:20:42] [Server thread/INFO]: Gave 200 [Shulker Shell] to SkateMannn
+[18:21:23] [Server thread/INFO]: Gave 50 [Gunpowder] to SkateMannn
+[18:21:34] [Server thread/INFO]: Gave 300 [Gunpowder] to SkateMannn
+[18:37:32] [Server thread/INFO]: Villager EntityVillager['Villager'/59653, l='ServerLevel[world]', x=860.37, y=63.56, z=-2954.28] died, message: 'Villager suffocated in a wall'
+[18:47:31] [Server thread/INFO]: Gave 1 [Cartography Table] to SkateMannn
+[18:52:35] [Server thread/INFO]: SkateMannn lost connection: Disconnected
+[18:52:35] [Server thread/INFO]: SkateMannn left the game
+[18:53:48] [Server thread/INFO]: Stopping server
+[18:53:48] [Server thread/INFO]: Saving players
+[18:53:49] [Server thread/INFO]: Saving worlds
+[18:53:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:53:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:53:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:53:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
