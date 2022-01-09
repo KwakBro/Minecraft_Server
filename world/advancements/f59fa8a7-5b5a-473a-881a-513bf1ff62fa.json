@@ -773,6 +773,7 @@
       "minecraft:piglin": "2021-12-21 19:38:57 +0900",
       "minecraft:enderman": "2021-12-16 20:44:35 +0900",
       "minecraft:silverfish": "2021-12-20 09:47:47 +0900",
+      "minecraft:endermite": "2022-01-09 21:40:32 +0900",
       "minecraft:zombie": "2021-12-15 23:21:56 +0900",
       "minecraft:drowned": "2021-12-22 00:45:09 +0900",
       "minecraft:zombie_villager": "2021-12-17 00:38:17 +0900"
@@ -3060,6 +3061,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-01-09 20:50:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-16 01:40:57 +0900"
@@ -3562,6 +3569,8 @@
     "criteria": {
       "textures/entity/cat/white.png": "2022-01-07 23:28:15 +0900",
       "textures/entity/cat/jellie.png": "2022-01-08 18:02:18 +0900",
+      "textures/entity/cat/ragdoll.png": "2022-01-09 22:04:19 +0900",
+      "textures/entity/cat/british_shorthair.png": "2022-01-09 22:14:23 +0900",
       "textures/entity/cat/persian.png": "2022-01-07 23:16:55 +0900",
       "textures/entity/cat/red.png": "2022-01-08 18:07:08 +0900",
       "textures/entity/cat/calico.png": "2022-01-08 17:56:23 +0900"
