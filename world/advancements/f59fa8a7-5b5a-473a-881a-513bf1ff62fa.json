@@ -1502,7 +1502,9 @@
       "minecraft:swamp": "2021-12-16 01:40:04 +0900",
       "minecraft:cold_ocean": "2021-12-16 22:21:56 +0900",
       "minecraft:forest": "2021-12-16 00:17:11 +0900",
+      "minecraft:lush_caves": "2022-01-13 08:30:48 +0900",
       "minecraft:deep_cold_ocean": "2021-12-16 22:52:40 +0900",
+      "minecraft:ice_spikes": "2022-01-13 08:45:10 +0900",
       "minecraft:frozen_ocean": "2021-12-16 22:26:20 +0900",
       "minecraft:windswept_forest": "2021-12-16 03:35:26 +0900",
       "minecraft:deep_frozen_ocean": "2021-12-16 22:26:46 +0900",
@@ -3527,6 +3529,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-01-06 22:11:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2022-01-13 09:01:22 +0900"
     },
     "done": true
   },

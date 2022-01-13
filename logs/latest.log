@@ -1,131 +1,95 @@
-[03:17:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:17:13] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
-[03:17:15] [Worker-Main-16/INFO]: Loaded 7 recipes
-[03:17:18] [Server thread/INFO]: Starting minecraft server version 1.18.1
-[03:17:18] [Server thread/INFO]: Loading properties
-[03:17:18] [Server thread/INFO]: Default game type: SURVIVAL
-[03:17:18] [Server thread/INFO]: Generating keypair
-[03:17:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:17:18] [Server thread/INFO]: Using default channel type
-[03:17:19] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
-[03:17:19] [Server thread/INFO]: Preparing level "world"
-[03:17:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:17:21] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[03:17:21] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[03:17:21] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[03:17:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:17:22] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[03:17:22] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[03:17:23] [Worker-Main-15/INFO]: Preparing spawn area: 4%
-[03:17:23] [Worker-Main-20/INFO]: Preparing spawn area: 4%
-[03:17:24] [Worker-Main-18/INFO]: Preparing spawn area: 9%
-[03:17:24] [Worker-Main-12/INFO]: Preparing spawn area: 16%
-[03:17:25] [Worker-Main-17/INFO]: Preparing spawn area: 48%
-[03:17:25] [Worker-Main-12/INFO]: Preparing spawn area: 72%
-[03:17:26] [Worker-Main-14/INFO]: Preparing spawn area: 86%
-[03:17:26] [Server thread/INFO]: Time elapsed: 6409 ms
-[03:17:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:17:27] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:17:27] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:17:27] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[03:17:28] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[03:17:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[03:17:29] [Worker-Main-18/INFO]: Preparing spawn area: 4%
-[03:17:29] [Worker-Main-21/INFO]: Preparing spawn area: 6%
-[03:17:30] [Worker-Main-14/INFO]: Preparing spawn area: 26%
-[03:17:30] [Worker-Main-12/INFO]: Preparing spawn area: 44%
-[03:17:31] [Worker-Main-19/INFO]: Preparing spawn area: 71%
-[03:17:31] [Worker-Main-22/INFO]: Preparing spawn area: 84%
-[03:17:32] [Worker-Main-19/INFO]: Preparing spawn area: 88%
-[03:17:32] [Server thread/INFO]: Time elapsed: 5867 ms
-[03:17:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:17:33] [Worker-Main-18/INFO]: Preparing spawn area: 0%
-[03:17:33] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[03:17:33] [Worker-Main-22/INFO]: Preparing spawn area: 0%
-[03:17:34] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[03:17:34] [Worker-Main-13/INFO]: Preparing spawn area: 6%
-[03:17:35] [Worker-Main-22/INFO]: Preparing spawn area: 31%
-[03:17:35] [Worker-Main-18/INFO]: Preparing spawn area: 55%
-[03:17:36] [Worker-Main-21/INFO]: Preparing spawn area: 76%
-[03:17:36] [Worker-Main-14/INFO]: Preparing spawn area: 92%
-[03:17:37] [Server thread/INFO]: Time elapsed: 4308 ms
-[03:17:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:17:37] [Server thread/INFO]: Done (17.814s)! For help, type "help"
-[03:18:12] [User Authenticator #1/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
-[03:18:12] [Server thread/INFO]: NotTangerlne[/127.0.0.1:58909] logged in with entity id 145 at ([world]826.123381964286, 152.0, 118.33650626427496)
-[03:19:29] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:19:39] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:20:01] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:20:12] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:20:20] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:20:27] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:20:39] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:21:00] [Server thread/INFO]: Gave 6400 [Gunpowder] to NotTangerlne
-[03:21:15] [Server thread/INFO]: Gave 1000 [Gunpowder] to NotTangerlne
-[03:21:24] [Server thread/INFO]: Gave 1000 [Gunpowder] to NotTangerlne
-[03:22:00] [Server thread/INFO]: Gave 6400 [String] to NotTangerlne
-[03:25:11] [Server thread/INFO]: Set the time to 0
-[03:25:25] [Server thread/INFO]: Gave 6400 [Arrow] to NotTangerlne
-[03:25:59] [Server thread/INFO]: Gave 3 [Bone] to NotTangerlne
-[03:26:07] [Server thread/INFO]: Gave 6400 [Bone] to NotTangerlne
-[03:26:37] [Server thread/INFO]: Gave 6400 [Rotten Flesh] to NotTangerlne
-[03:26:56] [Server thread/INFO]: Gave 2000 [Spider Eye] to NotTangerlne
-[03:27:34] [Server thread/INFO]: Unknown item 'minecraft:galss'
-[03:27:34] [Server thread/INFO]: ...Tangerlne minecraft:galss 64<--[HERE]
-[03:27:45] [Server thread/INFO]: Gave 64 [Glass] to NotTangerlne
-[03:29:57] [Server thread/INFO]: Gave 5 [Lava Bucket] to NotTangerlne
-[03:30:22] [Server thread/INFO]: Gave 640 [Arrow] to NotTangerlne
-[03:30:50] [Server thread/INFO]: Gave 640 [Gunpowder] to NotTangerlne
-[03:31:16] [Server thread/INFO]: Gave 640 [Gunpowder] to NotTangerlne
-[03:31:36] [Server thread/INFO]: Unknown item 'minecraft:'
-[03:31:36] [Server thread/INFO]: ...Tangerlne minecraft:Gunpowder 640<--[HERE]
-[03:31:43] [Server thread/INFO]: Gave 640 [Gunpowder] to NotTangerlne
-[03:31:48] [Server thread/INFO]: Gave 640 [Gunpowder] to NotTangerlne
-[05:55:15] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
-[05:55:15] [Server thread/INFO]: NotTangerlne left the game
-[05:55:22] [User Authenticator #2/INFO]: UUID of player NotTangerlne is 599dacf7-3604-4f9c-af51-cddc32724b3d
-[05:55:23] [Server thread/INFO]: NotTangerlne[/127.0.0.1:49493] logged in with entity id 21544 at ([world]824.394550979072, 152.0, 118.30000001192093)
-[08:27:05] [User Authenticator #3/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
-[08:27:05] [Server thread/INFO]: ToRam_[/222.104.63.84:61005] logged in with entity id 39181 at ([world]917.5, 236.875, 208.5)
-[08:35:10] [Server thread/INFO]: ToRam_ has made the advancement [Voluntary Exile]
-[08:37:46] [Server thread/INFO]: NotTangerlne fell from a high place
-[08:52:22] [Server thread/INFO]: Teleported ToRam_ to NotTangerlne
-[09:01:42] [Server thread/INFO]: Teleported ToRam_ to NotTangerlne
-[09:18:05] [Server thread/INFO]: NotTangerlne fell from a high place
-[09:18:09] [Server thread/INFO]: ToRam_ lost connection: Disconnected
-[09:18:09] [Server thread/INFO]: ToRam_ left the game
-[09:22:09] [Server thread/INFO]: Made NotTangerlne a server operator
-[09:22:15] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[09:22:15] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[09:27:57] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[09:27:57] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[09:31:42] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[09:31:42] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[09:33:36] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[09:33:36] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[09:38:30] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[09:38:30] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[09:38:37] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[09:38:37] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[09:59:37] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[09:59:37] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[10:03:55] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[10:03:55] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[10:04:10] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[10:04:14] [Server thread/INFO]: NotTangerlne issued server command: /gamemode creative
-[10:04:14] [Server thread/INFO]: [NotTangerlne: Set own game mode to Creative Mode]
-[10:06:36] [Server thread/INFO]: NotTangerlne issued server command: /gamemode survival
-[10:06:36] [Server thread/INFO]: [NotTangerlne: Set own game mode to Survival Mode]
-[10:06:59] [Server thread/INFO]: NotTangerlne lost connection: Disconnected
-[10:06:59] [Server thread/INFO]: NotTangerlne left the game
-[10:07:12] [Server thread/INFO]: Made NotTangerlne no longer a server operator
-[10:07:14] [Server thread/INFO]: Stopping server
-[10:07:14] [Server thread/INFO]: Saving players
-[10:07:14] [Server thread/INFO]: Saving worlds
-[10:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[10:07:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[10:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:07:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:16:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:16:44] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[08:16:44] [Worker-Main-14/INFO]: Loaded 7 recipes
+[08:16:51] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[08:16:51] [Server thread/INFO]: Loading properties
+[08:16:51] [Server thread/INFO]: Default game type: SURVIVAL
+[08:16:51] [Server thread/INFO]: Generating keypair
+[08:16:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:16:51] [Server thread/INFO]: Using default channel type
+[08:16:52] [Server thread/INFO]: This server is running CraftBukkit version 3363-Bukkit-e36f759 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[08:16:52] [Server thread/INFO]: Preparing level "world"
+[08:16:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:16:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[08:16:54] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:16:54] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[08:16:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:16:55] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:16:56] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[08:16:56] [Worker-Main-21/INFO]: Preparing spawn area: 4%
+[08:16:57] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[08:16:57] [Worker-Main-19/INFO]: Preparing spawn area: 13%
+[08:16:58] [Worker-Main-16/INFO]: Preparing spawn area: 29%
+[08:16:58] [Worker-Main-20/INFO]: Preparing spawn area: 43%
+[08:16:59] [Worker-Main-12/INFO]: Preparing spawn area: 81%
+[08:17:00] [Server thread/INFO]: Time elapsed: 6271 ms
+[08:17:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:17:01] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[08:17:01] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[08:17:01] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[08:17:01] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[08:17:02] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[08:17:02] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[08:17:03] [Worker-Main-22/INFO]: Preparing spawn area: 10%
+[08:17:03] [Worker-Main-21/INFO]: Preparing spawn area: 26%
+[08:17:04] [Worker-Main-13/INFO]: Preparing spawn area: 48%
+[08:17:04] [Worker-Main-18/INFO]: Preparing spawn area: 68%
+[08:17:05] [Worker-Main-15/INFO]: Preparing spawn area: 85%
+[08:17:05] [Worker-Main-20/INFO]: Preparing spawn area: 98%
+[08:17:06] [Server thread/INFO]: Time elapsed: 5932 ms
+[08:17:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:17:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:17:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[08:17:07] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[08:17:07] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[08:17:08] [Worker-Main-20/INFO]: Preparing spawn area: 10%
+[08:17:08] [Worker-Main-12/INFO]: Preparing spawn area: 35%
+[08:17:09] [Worker-Main-15/INFO]: Preparing spawn area: 63%
+[08:17:09] [Worker-Main-12/INFO]: Preparing spawn area: 78%
+[08:17:10] [Worker-Main-13/INFO]: Preparing spawn area: 96%
+[08:17:10] [Server thread/INFO]: Time elapsed: 4072 ms
+[08:17:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:17:10] [Server thread/INFO]: Done (17.642s)! For help, type "help"
+[08:19:53] [User Authenticator #1/INFO]: UUID of player ToRam_ is f59fa8a7-5b5a-473a-881a-513bf1ff62fa
+[08:19:53] [Server thread/INFO]: ToRam_[/127.0.0.1:52485] logged in with entity id 140 at ([world]916.3497732141965, 236.0, 203.7277403425112)
+[08:20:13] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[08:20:13] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[08:21:58] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 1 100
+[08:21:58] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 1.000000, 100.500000]
+[08:21:58] [Server thread/WARN]: ToRam_ moved too quickly! -403.2928081807448,-214.5382836854752,347.3584025614765
+[08:22:34] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 250 100
+[08:22:34] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 250.000000, 100.500000]
+[08:22:34] [Server thread/WARN]: ToRam_ moved too quickly! -13.24884098407233,195.69784649737582,-15.427305876290987
+[08:23:19] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 50 100
+[08:23:19] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 50.000000, 100.500000]
+[08:23:19] [Server thread/WARN]: ToRam_ moved too quickly! -70.03957306680067,-312.41967825923183,13.079715380550581
+[08:29:31] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[08:29:31] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[08:29:43] [Server thread/INFO]: ToRam_ issued server command: /gamemode creative
+[08:29:43] [Server thread/INFO]: [ToRam_: Set own game mode to Creative Mode]
+[08:38:44] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 50 100
+[08:38:44] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 50.000000, 100.500000]
+[08:38:44] [Server thread/WARN]: ToRam_ moved too quickly! 291.1939893779502,-85.39044352112901,299.3882963490394
+[08:39:49] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 50 100
+[08:39:49] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 50.000000, 100.500000]
+[08:39:49] [Server thread/WARN]: ToRam_ moved too quickly! -248.02543377914998,-26.0,-155.28202831330745
+[08:40:51] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 50 100
+[08:40:51] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 50.000000, 100.500000]
+[08:40:51] [Server thread/WARN]: ToRam_ moved too quickly! 116.4119208426848,-22.933445531887813,93.80000001192093
+[08:47:55] [Server thread/INFO]: ToRam_ issued server command: /tp @a 100 50 -300
+[08:47:55] [Server thread/INFO]: [ToRam_: Teleported ToRam_ to 100.500000, 50.000000, -299.500000]
+[08:47:55] [Server thread/WARN]: ToRam_ moved too quickly! 108.00082963714542,-28.0,-220.495610294368
+[10:04:56] [Server thread/INFO]: ToRam_ issued server command: /gamemode survival
+[10:04:56] [Server thread/INFO]: [ToRam_: Set own game mode to Survival Mode]
+[10:05:27] [Server thread/INFO]: ToRam_ lost connection: Disconnected
+[10:05:27] [Server thread/INFO]: ToRam_ left the game
+[10:05:31] [Server thread/INFO]: Stopping server
+[10:05:31] [Server thread/INFO]: Saving players
+[10:05:31] [Server thread/INFO]: Saving worlds
+[10:05:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:05:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:05:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:05:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:05:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:05:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:05:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
