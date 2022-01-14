@@ -2175,8 +2175,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-01-14 20:33:04 +0900",
       "minecraft:nether_wastes": "2021-12-27 23:55:38 +0900",
-      "minecraft:basalt_deltas": "2021-12-16 23:13:48 +0900"
+      "minecraft:basalt_deltas": "2021-12-16 23:13:48 +0900",
+      "minecraft:warped_forest": "2022-01-14 20:33:00 +0900"
     },
     "done": false
   },
