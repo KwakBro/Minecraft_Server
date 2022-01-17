@@ -1184,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-01-17 20:38:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-16 01:55:31 +0900"
@@ -1775,6 +1781,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2021-12-16 01:13:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-01-17 20:50:47 +0900"
     },
     "done": true
   },
@@ -3006,6 +3018,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-12-21 23:07:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-01-17 20:50:47 +0900"
     },
     "done": true
   },
