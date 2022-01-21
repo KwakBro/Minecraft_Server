@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-01-21 17:58:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-12-22 21:29:38 +0900"
@@ -1558,6 +1564,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-01-21 18:32:56 +0900",
       "minecraft:old_growth_pine_taiga": "2021-12-16 21:48:40 +0900",
       "minecraft:taiga": "2021-12-16 21:41:17 +0900",
       "minecraft:deep_ocean": "2021-12-23 21:19:08 +0900",
@@ -1566,15 +1573,18 @@
       "minecraft:birch_forest": "2021-12-16 00:27:41 +0900",
       "minecraft:windswept_hills": "2021-12-16 03:46:45 +0900",
       "minecraft:bamboo_jungle": "2022-01-20 02:36:27 +0900",
+      "minecraft:savanna_plateau": "2022-01-21 18:47:49 +0900",
       "minecraft:beach": "2021-12-16 00:20:45 +0900",
       "minecraft:dark_forest": "2021-12-16 22:58:18 +0900",
       "minecraft:sparse_jungle": "2022-01-15 19:02:59 +0900",
       "minecraft:river": "2021-12-15 23:38:44 +0900",
       "minecraft:lukewarm_ocean": "2021-12-16 20:06:33 +0900",
       "minecraft:snowy_plains": "2022-01-06 22:20:43 +0900",
+      "minecraft:stony_shore": "2022-01-21 18:32:49 +0900",
       "minecraft:dripstone_caves": "2021-12-16 01:00:46 +0900",
       "minecraft:snowy_taiga": "2021-12-16 22:27:41 +0900",
       "minecraft:swamp": "2021-12-16 01:40:04 +0900",
+      "minecraft:grove": "2022-01-21 18:33:40 +0900",
       "minecraft:cold_ocean": "2021-12-16 22:21:56 +0900",
       "minecraft:forest": "2021-12-16 00:17:11 +0900",
       "minecraft:lush_caves": "2022-01-13 08:30:48 +0900",
@@ -1593,6 +1603,7 @@
       "minecraft:deep_lukewarm_ocean": "2021-12-22 12:12:36 +0900",
       "minecraft:flower_forest": "2021-12-22 12:07:24 +0900",
       "minecraft:old_growth_birch_forest": "2021-12-16 22:58:41 +0900",
+      "minecraft:meadow": "2022-01-21 18:38:45 +0900",
       "minecraft:windswept_gravelly_hills": "2021-12-16 22:15:09 +0900",
       "minecraft:savanna": "2021-12-15 23:20:26 +0900",
       "minecraft:plains": "2021-12-15 23:39:41 +0900"
@@ -2432,6 +2443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2022-01-21 18:37:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2021-12-16 01:13:26 +0900"
@@ -2677,6 +2694,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-12-16 01:13:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-01-21 17:58:46 +0900"
     },
     "done": true
   },
